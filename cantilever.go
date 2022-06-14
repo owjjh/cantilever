@@ -12,7 +12,6 @@ import (
 )
 
 func main() {
-// new comment
 	type Dependency struct {
 		GroupId string `xml:"groupId"`
 		ArtifactId string `xml:"artifactId"`
